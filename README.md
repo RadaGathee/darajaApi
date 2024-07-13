@@ -1,4 +1,4 @@
-# darajaApi
+# Daraja Api
 Implementing Safaricom Daraja API
 
 ## Acknowledgements
