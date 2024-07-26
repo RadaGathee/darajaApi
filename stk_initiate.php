@@ -16,7 +16,7 @@ if(isset($_POST['submit'])){
   /*
     This are your info, for
     $PartyA should be the ACTUAL clients phone number or your phone number, format 2547********
-    $AccountRefference, it maybe invoice number, account number etc on production systems, but for test just put anything
+    $AccountReference, it may be invoice number, account number etc on production systems, but for test just put anything
     TransactionDesc can be anything, probably a better description of the transaction
     $Amount this is the total invoiced amount. Any amount here will be 
     actually deducted from a clients side/your test phone number once the PIN has been entered to authorize the transaction. 
